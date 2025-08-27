@@ -1,0 +1,12 @@
+Comandos De terminal: 
+-  del * (delete)
+- ls (list)
+- cls (clear)
+- cd (change directory)
+-mkdir (make directory)
+- code (vscode)
+
+Comandos npm e node:
+- npm init -y | inicia projeto node
+- node [nome_do_arquivo] | roda arquivo js com node
+- node --watch [nome_do_arquivo] | node fica vigiando arquivo
